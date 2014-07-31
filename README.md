@@ -1,4 +1,4 @@
-converter2hdf5
+Brainliner Data Converter
 ==============
 
-data converter to hdf5
+sample data converter to brainliner hdf5 (v1.0)
